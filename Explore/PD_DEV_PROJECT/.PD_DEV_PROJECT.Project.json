@@ -1,0 +1,22 @@
+{
+  "objectInfo" : {
+    "id" : "7B3GMzJA4ubeYZQF6ccliU",
+    "name" : "PD_DEV_PROJECT",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "PD_DEV_PROJECT",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "objectRefs" : [ ]
+}
