@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "7B3GMzJA4ubeYZQF6ccliU",
-    "name" : "PD_DEV_PROJECT",
+    "name" : "PD_PROJECT",
     "type" : "Project",
     "metadata" : {
       "modelVersion" : {
@@ -11,7 +11,7 @@
       "repoInfo" : null,
       "contextAttributes" : [ ],
       "additionalInfo" : {
-        "description" : "PD_DEV_PROJECT",
+        "description" : "PD_PROJECT",
         "contentType" : "Binary",
         "documentState" : "COMPLETE"
       }
