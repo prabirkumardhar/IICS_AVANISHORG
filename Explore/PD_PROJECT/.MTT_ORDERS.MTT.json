@@ -44,26 +44,6 @@
     },
     "path" : "/SYS"
   }, {
-    "id" : "aHM3PJEB14MbJEp25BB2uM",
-    "name" : "edx2.informatica.com",
-    "type" : "AgentGroup",
-    "metadata" : {
-      "modelVersion" : {
-        "major" : 0,
-        "minor" : 0
-      },
-      "repoInfo" : {
-        "repoHandle" : "01002J2500000000000B"
-      },
-      "contextAttributes" : null,
-      "additionalInfo" : {
-        "description" : null,
-        "contentType" : "JSON",
-        "documentState" : "VALID"
-      }
-    },
-    "path" : "/SYS"
-  }, {
     "id" : "1fvvxNfQ3sne9jA6028OeU",
     "name" : "EDX2_ORA_INFADEMO_DATA",
     "type" : "Connection",
@@ -95,16 +75,33 @@
       "repoInfo" : {
         "repoHandle" : "01002J1700000000000W"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     },
-    "path" : "/Explore/PD_DEV_PROJECT"
+    "path" : "/Explore/PD_PROJECT"
+  }, {
+    "id" : "3mx5F09vD0kcNu2tRwKrgo",
+    "name" : "PD_IICS_AGENT",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01002J2500000000000C"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
   } ]
 }
